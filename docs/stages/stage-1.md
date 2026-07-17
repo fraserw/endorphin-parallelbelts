@@ -129,6 +129,10 @@ These two center idlers are the reason we're using ones with a 3mm bore througho
 
 These little M3 washers can be tricky to install, and you may be tempted to skip them altogether. A good rule of thumb is anywhere that gravity is at play on a pulley, you'll need a washer so it doesn't rub. In short: Washers are going to be *highly* recommended on the X axis pulleys, but not so critical on the Y tensioners.
 
+## Optional Parts
+
+An optional part is to replace the stock x-axis tensioner and pulley with the included dual pulley model. This uses two of the same 3mm bore pulleys and washers used on the x-axis carriage assembly, and the same stock t-bolt hardware of the original x-tensioner. This will make the belt on the left side of the printer carriage parallel with the x-axis extrusion. 
+
 ## Optional Steps
 
 ### Swap Motors
